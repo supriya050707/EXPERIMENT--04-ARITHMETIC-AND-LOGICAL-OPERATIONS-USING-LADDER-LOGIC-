@@ -77,7 +77,8 @@ Logical Operations: Confirm that the output behaves as expected based on the log
 ##  Simulation Screenshots:
 (Add screenshots of the ladder logic and operation results in the simulation software.)
 <img width="1467" height="927" alt="image" src="https://github.com/user-attachments/assets/6f270607-927b-4af7-ab12-399bea07cc0e" />
-
+<img width="1477" height="922" alt="image" src="https://github.com/user-attachments/assets/3a2ff5d0-9fb9-4f3b-b6b4-0920d9e8da9a" />
+<img width="1432" height="522" alt="image" src="https://github.com/user-attachments/assets/87661b3e-7870-41fc-9e6d-383654da1f56" />
 <img width="1511" height="472" alt="image" src="https://github.com/user-attachments/assets/c944dcc2-11bf-47c2-a574-0541902db764" />
 
 
