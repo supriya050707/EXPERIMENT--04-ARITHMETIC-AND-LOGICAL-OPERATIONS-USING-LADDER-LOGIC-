@@ -1,8 +1,8 @@
 # EXPERIMENT--04-ARITHMETIC-AND-LOGICAL-OPERATIONS-USING-LADDER-LOGIC
-#  NAME:
-# REGISTER NUMBER:
-# DEPARTMENT:
-# YEAR:
+#  NAME: Supriya S J
+# REGISTER NUMBER: 212224110051
+# DEPARTMENT:B.E-CSE(IOT)
+# YEAR:3rd year
 ## Aim:
 To understand and implement various arithmetic and logical operations in Programmable Logic Controller (PLC) ladder logic.
 
@@ -76,6 +76,10 @@ Arithmetic Operations: Verify that the output shows correct results for addition
 Logical Operations: Confirm that the output behaves as expected based on the logical conditions (AND, OR, NOT).
 ##  Simulation Screenshots:
 (Add screenshots of the ladder logic and operation results in the simulation software.)
+<img width="1467" height="927" alt="image" src="https://github.com/user-attachments/assets/6f270607-927b-4af7-ab12-399bea07cc0e" />
+
+<img width="1511" height="472" alt="image" src="https://github.com/user-attachments/assets/c944dcc2-11bf-47c2-a574-0541902db764" />
+
 
 ## Results:
 The ladder logic programs for various arithmetic and logical operations were successfully implemented and tested. The outputs were as expected, demonstrating correct calculation and logical decision-making capabilities. This experiment illustrates the essential role of arithmetic and logical functions in automated processes.
